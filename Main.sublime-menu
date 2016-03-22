@@ -1,0 +1,22 @@
+[{
+  "id": "tools",
+  "children": [{
+    "id": "Lipsum-Chinese",
+    "caption": "Lipsum Chinese",
+    "children": [{
+    "caption" : "极短",
+    "command" : "abit"
+  },{
+    "caption" : "较短",
+    "command" : "some"
+  },{
+    "caption" : "较长",
+    "command" : "lots"
+  },
+  {
+    "caption" : "很长",
+    "command" : "stick_shake"
+  }
+  ]
+  }]
+}]

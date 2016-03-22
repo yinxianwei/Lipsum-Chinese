@@ -1,0 +1,16 @@
+[{
+  "keys": ["super+shift+7"],
+  "command": "abit"
+},
+{
+  "keys": ["super+shift+8"],
+  "command": "some"
+},
+{
+  "keys": ["super+shift+9"],
+  "command": "lots"
+},
+{
+  "keys": ["super+shift+0"],
+  "command": "stick_shake"
+}]
