@@ -12,5 +12,5 @@
 },
 {
   "keys": ["super+shift+0"],
-  "command": "stick_shake"
+  "command": "stick"
 }]
