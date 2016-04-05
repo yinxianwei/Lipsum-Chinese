@@ -1,8 +1,0 @@
-{
-    "description": "Lorem lipsum for Chinese",
-    "url": "https://github.com/yinxianwei/lipsum-Chinese",
-    "platforms": ["*"],
-    "version": "1.0.0",
-    "sublime_text": "*",
-    "dependencies": []
-}
