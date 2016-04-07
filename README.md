@@ -2,7 +2,7 @@
 
 ## 说明：
 
-简单的 (Sublime 2/3)[http://www.sublimetext.com/] 插件，快速生成一段中文。
+简单的 [Sublime 2/3](http://www.sublimetext.com/) 插件，快速生成一段中文。
 
 ## 使用
 
